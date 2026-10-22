@@ -1,2 +1,2 @@
-# bultin_d-un_eleve_en_tronc_commun
-ce programme vous donner de calculer la note finale de quelle élève
+# mes premier projets
+ici vous trouvez tous mes premiers projets en programmation
